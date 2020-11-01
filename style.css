@@ -20,3 +20,21 @@ header {
     width: 100%;
     height: 100%;
 }
+footer {
+    background-color: #181414;
+    color: #ffffff;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.reseaux {
+    padding: 17px;
+}
+.reseaux img {
+    margin: 13px;
+}
+.copyright {
+    margin-top: 140px;
+   text-align: center;
