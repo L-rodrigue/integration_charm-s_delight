@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+header {
+    display: flex;
+}
+.headerLeft{
+    background-color: #ac0115;
+}
+.logo {
+    width: 138px;
+    height: 133px;
+}
+.menu {
+    width: 63px;
+    height: 76px;
+    margin: 16px 35px 11px 40px;
+}
+.headerRight img {
+    width: 100%;
+    height: 100%;
+}
